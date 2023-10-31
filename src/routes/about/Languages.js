@@ -5,10 +5,7 @@ const Languages = () => {
       <section>
         <h3>English</h3>
         <p>Native or bilingual proficiency</p>
-        <h3>Spanish</h3>
-        <p>Bilingual proficiency</p>
-        <h3>German</h3>
-        <p>Elementary proficiency</p>
+        <h3>Malayalam</h3>
       </section>
     </section>
   );

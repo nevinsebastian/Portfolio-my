@@ -32,14 +32,14 @@ const experienceData = [
 
 const educationData = [
   {
-    name: "Emerald College",
-    status: "Bachelor of Science in Computer Science",
-    year: "2021",
+    name: "Carmel  College of Engineering",
+    status: "Computer Science engineering",
+    year: "2024",
   },
   {
-    name: "Cityville High School",
-    status: "High School Diploma",
-    year: "2012",
+    name: "Thiruvambady  High School",
+    status: "High School ",
+    year: "2020",
   }
 ];
 
