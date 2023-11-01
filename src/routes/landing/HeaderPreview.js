@@ -9,9 +9,7 @@ const HeaderPreview = () => {
         <br></br>web developer
       </h1>
       <p className="gray-text p-tag">Front End Development</p>
-      <Link className="pink-text" to="/portfolio">
-        Check my work
-      </Link>
+      
     </article>
   );
 };

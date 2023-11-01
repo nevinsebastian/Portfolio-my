@@ -29,16 +29,7 @@ const NavigationMenu = (props) => {
       >
         About
       </NavLink>
-      <NavLink
-        to="/portfolio"
-        className={activeNavLink}
-        onClick={() => {
-          ScrollToTop();
-          props.closeMenu();
-        }}
-      >
-        Portfolio
-      </NavLink>
+      
       <NavLink
         to="/contact"
         className={activeNavLink}

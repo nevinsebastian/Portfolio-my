@@ -6,7 +6,7 @@ import { useEffect } from "react";
 
 const Portfolio = () => {
   useEffect(() => {
-    document.title = "Portfolio | Sophia Martinez";
+    document.title = "Portfolio | Nevin Sebastian";
   })
   return (
     <article className="portfolio-main">
